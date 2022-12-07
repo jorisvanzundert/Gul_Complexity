@@ -1,0 +1,1 @@
+Data and Jupyter notebook code for the analysis of the relation between LIWC detected anger and information entropy / linguistic complexity in paragraphs from a controversial best selling Dutch novel (Lale Gül's *Ik ga leven*). 
